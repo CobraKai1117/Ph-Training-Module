@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Clouds
+  m_Shader: {fileID: -6465566751694194690, guid: 0e56b85729c0ade488f67fae890dd012,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CubemapAsset_AA0EF99B_Out_0:
+        m_Texture: {fileID: 8900000, guid: e71fc492f440446b99875b8e1df890ba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_71F398AB_Cube_1:
+        m_Texture: {fileID: 8900000, guid: 66e51860485ae4048a30f7e029e65af7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8A7C51EA_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3aceb1104f258474b85106137c125b88, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_DEDDB6B2_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6774108631deb4532b5f7df6e4f779a7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1763370D: 2000
+    - Vector1_1C0006EC: 5
+    - Vector1_3791ABE2: 2.04
+    - Vector1_86D03311: 2
+    - Vector1_A32B1B5A: 2000
+    - Vector1_D8C5D55C: 0.5
+    - Vector1_E28D074D: 0.0001
+    m_Colors:
+    - Color_2C6A3F5A: {r: 1.0155052, g: 1.3348109, b: 1.3625766, a: 1}
+    - Color_960CC887: {r: 23.96863, g: 23.96863, b: 23.96863, a: 0}
+    - Color_FF609976: {r: 23.96863, g: 23.96863, b: 23.96863, a: 0}
+    - Vector2_945C5A82: {r: 40, g: -50, b: 0, a: 0}
+    - Vector2_AA0D6F5A: {r: 50, g: 50, b: 0, a: 0}
+    - Vector2_E4F5B81B: {r: 5, g: 5, b: 0, a: 0}

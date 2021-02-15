@@ -1,0 +1,15 @@
+Thank you for purchasing our asset! We hope you got what you were looking for!
+
+Contents:-
+
+1)Advance/realistic water shader: This folder contains all the assets related to the shader including, prefabs, skybox, shader and material and the demo scene.
+
+2)Materials: Contains the materials for clouds and the water made through shader graph.
+
+3)Prefab: Contains the ready to use prefab of water. Just drag and drop into the scene.
+
+4)Shader: Contains the shadr graphs used to make water and clouds.
+
+5)Skybox: Contains the custom summer skybox with god rays.
+
+6)Scripts: Contains the camera contol script.
